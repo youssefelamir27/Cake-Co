@@ -1,0 +1,1 @@
+Cake & Co is an elegant, responsive e-commerce website dedicated to artisanal pastries and fine confections inspired by Middle Eastern flavors. Featuring handcrafted desserts like Baklava, Kunafa, and customized cakes, the site offers a delightful shopping experience with fast delivery, a welcoming atmosphere, and options for every dietary need.
