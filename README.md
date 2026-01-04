@@ -21,13 +21,9 @@ This project serves as a front-end portfolio piece demonstrating clean HTML stru
 
 ## Screenshots
 
-![Homepage](https://via.placeholder.com/800x450.png?text=Homepage+Preview)  
-*Welcome section and features*
+<img width="1896" height="866" alt="image" src="https://github.com/user-attachments/assets/da7b5ad7-379e-426f-91b5-5712b2987704" />
 
-![Products Section](https://via.placeholder.com/800x450.png?text=Products+Section+Preview)  
-*Special desserts and signature items*
 
-*(Add actual screenshots by capturing your live site and uploading them to the repo.)*
 
 ## Technologies Used
 
