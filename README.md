@@ -44,10 +44,4 @@ Built with vanilla technologies for simplicity and performance. No external fram
 - Emphasis on brand storytelling and visual appeal (ready for images)
 - Placeholder links and content for future expansion
 
-## How to Run Locally
 
-No build tools required — it's a pure static site!
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/youssefElamir27/Cake-Co.git
