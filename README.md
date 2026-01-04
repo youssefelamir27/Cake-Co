@@ -37,8 +37,8 @@ This project serves as a front-end portfolio piece demonstrating clean HTML stru
 
 ## Technologies Used
 
-- **HTML5** – Semantic markup and structure
-- **CSS3** – Custom styling and layout
+- **HTML** – Semantic markup and structure
+- **CSS** – Custom styling and layout
 - **GitHub Pages** – Hosting and deployment
 
 Built with vanilla technologies for simplicity and performance. No external frameworks.
